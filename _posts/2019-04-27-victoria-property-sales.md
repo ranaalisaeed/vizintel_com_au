@@ -11,4 +11,4 @@ Property sales for all suburbs in Victoria Australia since 2000. Data sourced fr
 <script src="/assets/js/vicbarchart.js"></script>
 
 ### Data notes
-Data is provided by XXX reflecting property sales since year 2000. There are 3131 suburbs in total. However only the suburbs that have more than a hundred transactions for all these years are shown in the dropdown menu.
+Data includes 3131 suburbs, and sales of houses, vacand land and units since year 2000. The suburbs that have less than a hundred total transactions for all these years are not included in the dropdown menu.
