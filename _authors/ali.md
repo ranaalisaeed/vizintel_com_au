@@ -1,9 +1,9 @@
 ---
 short_name: ali
 name: Ali Rana
-position: Data specialist
+position: Management Consultant
 ---
-I love solving complex problems in simple, brilliant ways.
+Ali is a humble project and change management professional who love solving complex problems in simple, brilliant ways.
 
 Simplicity in achieving lasting business change along with all the processes and solutions that go with it doesn't come easy. It's seldom a one-man show.
 
@@ -21,8 +21,6 @@ Always hungry to learn, Ali acquires new knowledge quickly, and also eager to ap
 
 &nbsp;
 
-Ali is a project management and business change consultant with around 15 years' experience in higher education, telco and IT sectors.  
+With over 15 years' experience in higher education, telco and IT sectors. Ali is always keen to hear about new opportunities and business challenges where he could help.
 
-
-Always keen to hear new opportunities and business challenges.
 Get in touch.
