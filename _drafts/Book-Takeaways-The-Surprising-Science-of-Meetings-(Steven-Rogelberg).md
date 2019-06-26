@@ -1,9 +1,12 @@
 ---
 title:  "Book summary for The Surprising Science of Meetings"
 date:   2019-04-25 09:43:46 +1000
-categories: Books
+categories: Book Takeaways
 author: ali
 ---
+
+{% include takeaway.html %}
+
 
 > A meeting is an event where minutes are taken and hours are wasted
 
