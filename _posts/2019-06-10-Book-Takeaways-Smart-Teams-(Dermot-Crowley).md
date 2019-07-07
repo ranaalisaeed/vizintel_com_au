@@ -1,6 +1,6 @@
 ---
-title:  "Takeaways from book Smart Teams (Dermot Crowley)"
-date:   2019-06-10 09:43:46 +1000
+title:  "Takeaways from Smart Teams (Dermot Crowley)"
+date:   2019-06-10 09:00:00 +1000
 categories: Book Takeaways
 author: ali
 ---
