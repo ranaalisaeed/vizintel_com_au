@@ -1,19 +1,21 @@
 ---
 title:  "Forever Skills (Kieran Flanagan & Dan Gregory)"
-date:   2019-08-04 09:00:00 +1000
+date:   2019-08-20 09:00:00 +1000
 categories: Book Takeaways
 author: ali
 ---
 
 {% include takeaway.html %}
 
-> Kieran Flanagan + Dan Gregory. Forever Skills : The 12 skills to future proof yourself, your team and your kids, 2018. [Link](www.google.com) to book at ____________________.
+> Kieran Flanagan + Dan Gregory. Forever Skills : The 12 skills to future proof yourself, your team and your kids, 2018.
 
 #### Table of contents
 {:.no_toc}
 
 * TOC
 {:toc}
+
+[![Mindmap of Forever Skills](/assets/images/Figure-forever-skills-mindmap.png)](/assets/images/Figure-forever-skills-mindmap.png)
 
 # CREATIVITY SKILLS
 
@@ -24,6 +26,9 @@ Creativity is the ability to think, to solve problems in ways we haven't seen be
 ## Insight
 
 Critical factors making inside of whatever skill
+
+#### Why is this a forever skill
+{:.no_toc}
 
 * Data requires sense-making to give it meaning
 * data is only as reliable as it's quality, completeness and focus
@@ -44,6 +49,7 @@ Data is not an answer, it's input.
 Conversion is the quest for transmutation, adaptation, reframing, re-invention and re-interpretation and it's as relevant today as it has ever been.
 
 #### Why is this a forever skill
+{:.no_toc}
 
 * Products, services and tools tend to change but emotional and psychological needs they satisfy often remain
 * Innovation and shifts in business models are many times the result of looking outside of an industry or category for inspiration
@@ -64,7 +70,8 @@ Conversion is a capability that has defined human advancement throughout history
 
 ## Problem solving
 
-#### Why is this a forever skills
+#### Why is this a forever skill
+{:.no_toc}
 
 * problems are becoming increasingly complex
 * problems are where opportunities hide
@@ -87,6 +94,7 @@ Creativity requires constant adjustment, a willingness to fail and to try a new 
 The willingness to relearn and create something new is a creative agility skill that many high achievers and great leaders have in common
 
 #### Why is this a forever skill
+{:.no_toc}
 
 * the path to success is rarely a straight line
 * few endeavours are successful in their first iteration
@@ -129,6 +137,7 @@ Whether you're a
 Influence is it critical skill. Influence allows us to negotiate a deal on our terms, mould opinions, make social change, and build businesses and organisations that generate social and commercial value.
 
 #### Why is this a forever skill
+{:.no_toc}
 
 * really does the best win. It is far more likely to be the most influential
 * relying on facts rather than influence can actually be counter-productive
@@ -175,6 +184,7 @@ Gallop’s Global Workforce Engagement Research survey is conduced every year. 2
 * organisations that do have an engaged workforce and culture of collaboration and cooperation are more productive, more profitable and even have customer satisfaction ratings that sit significantly above the norm.
 
 #### Why is this a forever skill
+{:.no_toc}
 
 * increasing complexity and the need for specialisation
 * the myth of solo success
@@ -229,6 +239,7 @@ Trust is also a rather fragile thing, slow to earn and quick to lose. An old Dut
 > What you do speaks so loudly I cannot hear what you are saying - Ralph Waldo, American philosopher
 
 #### Why is this a forever skill
+{:.no_toc}
 
 * Accountability is increasing as people have greater and more immediate access to information
 * We’re more connected which means opinions can now be amplified more quickly and more widely
@@ -253,6 +264,7 @@ Trip advisor is the most influential travel organisations on the planet. They do
 Translation skill is the capacity to assess, curate, interpret and share ideas and information across different professional, social and cultural spheres
 
 #### Why is this a forever skill
+{:.no_toc}
 
 * we’re overloaded with information
 * understanding is more important than accuracy
