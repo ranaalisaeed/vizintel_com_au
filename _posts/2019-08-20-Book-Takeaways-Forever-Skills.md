@@ -25,8 +25,6 @@ Creativity is the ability to think, to solve problems in ways we haven't seen be
 
 ## Insight
 
-Critical factors making inside of whatever skill
-
 #### Why is this a forever skill
 {:.no_toc}
 
